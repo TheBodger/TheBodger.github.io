@@ -1,1 +1,2 @@
 Sitemap: https://thebodger.github.io/sitemap_index.xml
+Sitemap: https://thebodger.github.io/sitemap.xml
